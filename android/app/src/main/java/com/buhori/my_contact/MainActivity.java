@@ -1,4 +1,4 @@
-package com.buhori;
+package com.buhori.my_contact;
 
 import com.facebook.react.ReactActivity;
 
